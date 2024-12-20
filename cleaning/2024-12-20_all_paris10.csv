@@ -1,0 +1,74 @@
+name;address;clean_price;cuisine_type;tags;source
+Fugue;128 Rue du Faubourg Saint-Martin, 75010 Paris, France;€€€€;['Feeling'];['NÉOBISTROT'];lefooding
+Candide;35 Rue de Sambre-et-Meuse, 75010 Paris, France;€€€;['VIANDES / GRILLADES', 'TERROIR'];['OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'TERRASSE', '13 À TABLE', 'KID-FRIENDLY', 'ACCESSIBILITÉ', 'RÉSA EXPRESS', 'RÉSERVATION VIA ZENCHEF'];lefooding
+Musa dwich club;22 Rue de l'Échiquier, 75010 Paris, France;€;['LÈCHE-DOIGTS', 'SANDWICHS / BAGELS'];['OUVERT LE LUNDI', 'TAKE-AWAY', 'MANGER SEUL', 'OUVERT LE MIDI'];lefooding
+Casimir;6 Rue de Belzunce, 75010 Paris, France;€€€€;['BISTROT', 'VIANDES / GRILLADES'];['OUVERT LE DIMANCHE', 'OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'TERRASSE', '13 À TABLE', 'OUVERT LE MIDI'];lefooding
+Holybelly 5;5 Rue Lucien Sampaix, 75010 Paris, France;€€;['Feeling'];['COFFEE SHOP', 'CHEFFES DE BANDE'];lefooding
+Taco mesa;40 Rue du Faubourg Poissonnière, 75010 Paris, France;€€;['Feeling'];['LÈCHE-DOIGTS', 'MEXICAIN'];lefooding
+Ika;26 Rue de Chabrol, 75010 Paris, France;€€;['JAPONAIS', 'ASIATIQUE'];['OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'TAKE-AWAY', 'MANGER SEUL'];lefooding
+Bake.;96 Rue du Faubourg Poissonnière, 75010 Paris, France;€;['LÈCHE-DOIGTS', 'COFFEE SHOP', 'SANDWICHS / BAGELS', 'ANGLAIS'];['OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'TAKE-AWAY', 'MANGER SEUL', 'MINI-PRIX'];lefooding
+Michelle mabelle;37 Bd de la Villette, 75010 Paris, France;€;['LÈCHE-DOIGTS', 'SANDWICHS / BAGELS', 'TARTES / SALADES / SOUPES / BOLS'];['OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'TAKE-AWAY', 'MANGER SEUL', 'OUVERT LE MIDI'];lefooding
+Dumbo petites-écuries;14 Rue des Petites Écuries, 75010 Paris, France;€;['LÈCHE-DOIGTS', 'AMÉRICAIN', 'BURGERS'];['OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'TAKE-AWAY', 'MANGER SEUL'];lefooding
+Saam;59B Rue de Lancry, 75010 Paris, France;€€;['LÈCHE-DOIGTS', 'CORÉEN', 'TAÏWANAIS', 'ASIATIQUE'];['OUVERT LE DIMANCHE', 'ANTIDÉPRESSEUR', 'TAKE-AWAY', 'MANGER SEUL', 'ACCESSIBILITÉ', 'OUVERT LE MIDI'];lefooding
+Faubourg daimant;20 Rue du Faubourg Poissonnière, 75010 Paris, France;€€€;['NÉOBISTROT', 'VÉGI'];['OUVERT LE DIMANCHE', 'OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'BRUNCH', 'MANGER SEUL', 'OUVERT LE MIDI', 'RÉSA EXPRESS', 'RÉSERVATION VIA ZENCHEF'];lefooding
+Urfa dürüm;58 Rue du Faubourg Saint-Denis, 75010 Paris, France;€;['LÈCHE-DOIGTS', 'KURDE'];['OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'TERRASSE', 'TAKE-AWAY', 'FAIM DE NUIT', 'MANGER SEUL'];lefooding
+Zinga;10 Rue des Petites Écuries, 75010 Paris, France;€;['LÈCHE-DOIGTS', 'CARIBÉEN'];['OUVERT LE LUNDI', 'TAKE-AWAY', 'MANGER SEUL', 'OUVERT LE MIDI'];lefooding
+Gros bao;72 Quai de Jemmapes, 75010 Paris, France;€€;['CHINOIS', 'ASIATIQUE', 'CHEFFES DE BANDE'];['OUVERT LE DIMANCHE', 'OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'TERRASSE', 'TAKE-AWAY', 'ACCESSIBILITÉ', 'RÉSA EXPRESS', 'RÉSERVATION VIA ZENCHEF'];lefooding
+Tempête;5 Cour des Petites Écuries, 75010 Paris, France;€€€;['BAR À VINS / CAVE À MANGER', 'LÈCHE-DOIGTS'];['ANTIDÉPRESSEUR', 'TERRASSE', 'FAIM DE NUIT', 'RÉSA EXPRESS', 'RÉSERVATION VIA ZENCHEF'];lefooding
+Billili;136 Rue du Faubourg Poissonnière, 75010 Paris, France;€€;['Meilleur antidépresseur Guide 2020', 'Feeling'];['BAR À VINS / CAVE À MANGER'];lefooding
+Brigade du tigre;38 Rue du Faubourg Poissonnière, 75010 Paris, France;€€;['Feeling'];['ASIATIQUE'];lefooding
+Åke table & vin;8 Rue Marie et Louise, 75010 Paris, France;€€;['Meilleure cave à manger Guide 2020', 'Feeling'];['NÉOBISTROT', 'BAR À VINS / CAVE À MANGER', 'SUÉDOIS', 'CHEFFES DE BANDE'];lefooding
+Le verre volé;67 Rue de Lancry, 75010 Paris, France;€€€;['Meilleur cave à manger Guide 2001', 'Feeling'];['BISTROT', 'BAR À VINS / CAVE À MANGER'];lefooding
+Les arlots;136 Rue du Faubourg Poissonnière, 75010 Paris, France;€€€;['Meilleure saucisse-purée Guide 2017'];['BISTROT', 'BAR À VINS / CAVE À MANGER'];lefooding
+La cave à michel;34 Rue Sainte-Marthe, 75010 Paris, France;€€;['Feeling'];['BAR À VINS / CAVE À MANGER', 'TAPASSIETTES'];lefooding
+Vivant 2;43 Rue des Petites Écuries, 75010 Paris, France;€€€€;"['""Fooding damour Guide 2018""', 'Feeling', 'Trop bon']";"['""CUISINE DAUTEUR""']";lefooding
+Özlem;57 Rue des Petites Écuries, 75010 Paris, France;€;['LÈCHE-DOIGTS', 'TURC'];['OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'TAKE-AWAY', 'MANGER SEUL', 'MINI-PRIX'];lefooding
+Panda panda;21 Rue Juliette Dodu, 75010 Paris, France;€€;['CHINOIS', 'ASIATIQUE'];['OUVERT LE DIMANCHE', 'OUVERT LE LUNDI', 'TERRASSE', 'TAKE-AWAY', 'MANGER SEUL'];lefooding
+Iné;29 Rue d'Enghien, 75010 Paris, France;€€;['JAPONAIS', 'ASIATIQUE'];['OUVERT LE LUNDI', 'TAKE-AWAY', 'MANGER SEUL', 'OUVERT LE MIDI'];lefooding
+Jjii;92, rue du Faubourg-Poissonnière;€€€€;['Feeling'];"['""CUISINE DAUTEUR""', 'NÉOBISTROT']";lefooding
+Chez michel;10 Rue de Belzunce, 75010 Paris, France;€€€;['BISTROT', 'CUISINE DU MARCHÉ'];['OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'TERRASSE', '13 À TABLE', 'ACCESSIBILITÉ', 'OUVERT LE MIDI', 'RÉSA EXPRESS', 'RÉSERVATION VIA ZENCHEF'];lefooding
+Dogma;10 Rue des Petites Écuries, 75010 Paris, France;€;['LÈCHE-DOIGTS', 'AMÉRICAIN', 'BURGERS'];['OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'TAKE-AWAY', 'MANGER SEUL', 'OUVERT LE MIDI'];lefooding
+Chez marius;11 rue de Chabrol, 75010 Paris;€€€;['BISTROT', 'POISSONS ET FRUITS DE MER'];['ANTIDÉPRESSEUR', 'ACCESSIBILITÉ', 'OUVERT LE MIDI'];lefooding
+Kolam;27 Rue de Lancry, Paris, France;€€;['SRI-LANKAIS'];['ANTIDÉPRESSEUR', 'TAKE-AWAY', 'OUVERT LE MIDI'];lefooding
+Daily syrien veggie;72 Rue du Faubourg Saint-Denis, 75010 Paris, France;€;['SYRIEN', 'VÉGI'];['OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'TERRASSE', 'TAKE-AWAY', 'ACCESSIBILITÉ'];lefooding
+Chocho;54 Rue de Paradis, 75010 Paris, France;€€€;['Feeling'];"['""CUISINE DAUTEUR""']";lefooding
+Minibar;23 Rue de Lancry, 75010 Paris, France;€€;['BAR À VINS / CAVE À MANGER', 'TAPASSIETTES'];['OUVERT LE DIMANCHE', 'OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'MANGER SEUL'];lefooding
+Café les deux gares;1 Rue des Deux Gares, 75010 Paris, France;€€€;['Meilleur bistrot Guide 2021'];"['""CUISINE DAUTEUR""', 'NÉOBISTROT', 'CAFÉ']";lefooding
+Round;25 Rue Louis Blanc, 75010 Paris, France;€;['LÈCHE-DOIGTS', 'BURGERS'];['OUVERT LE DIMANCHE', 'OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'TAKE-AWAY', 'MANGER SEUL', 'ACCESSIBILITÉ'];lefooding
+Mâche;61 rue de Chabrol, 75010 Paris;€€€€;"['""CUISINE DAUTEUR""', 'NÉOBISTROT']";['ANTIDÉPRESSEUR', '13 À TABLE', 'ACCESSIBILITÉ', 'RÉSA EXPRESS', 'RÉSERVATION VIA ZENCHEF'];lefooding
+Il camino;43 Rue des Petites Écuries, 75010 Paris, France;€€€€;['Feeling'];['NÉOBISTROT', 'ITALIEN'];lefooding
+Tanguy;15 Rue de l'Échiquier, 75010 Paris, France;€€;['CRÊPERIE'];['OUVERT LE DIMANCHE', 'TAKE-AWAY', 'MANGER SEUL', 'KID-FRIENDLY', 'ACCESSIBILITÉ', 'RÉSA EXPRESS', 'RÉSERVATION VIA ZENCHEF'];lefooding
+Comer;96 Rue d'Hauteville, 75010 Paris, France;€€;['LÈCHE-DOIGTS', 'MEXICAIN'];['ANTIDÉPRESSEUR', 'TAKE-AWAY', 'RÉSA EXPRESS', 'RÉSERVATION VIA ZENCHEF'];lefooding
+Dante;14 Rue de Paradis, 75010 Paris, France;€€€;['Feeling'];"['""CUISINE DAUTEUR""', 'NÉOBISTROT']";lefooding
+Sur mer;53 Rue de Lancry, 75010 Paris, France;€€€;['POISSONS ET FRUITS DE MER', 'CHEFFES DE BANDE'];['OUVERT LE DIMANCHE', 'OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'TERRASSE', 'TAKE-AWAY'];lefooding
+Urfa dürüm 2;10 Rue du Faubourg Saint-Denis, 75010 Paris, France;€;['VIANDES / GRILLADES', 'LÈCHE-DOIGTS', 'KURDE'];['OUVERT LE DIMANCHE', 'OUVERT LE LUNDI', 'ANTIDÉPRESSEUR', 'TERRASSE', 'TAKE-AWAY', 'FAIM DE NUIT', 'MANGER SEUL'];lefooding
+Plan d - dwich & glace;22 Rue des Vinaigriers, 75010 Paris, France;€;['LÈCHE-DOIGTS', 'SANDWICHS / BAGELS', 'GLACES', 'VÉGI'];['OUVERT LE DIMANCHE', 'ANTIDÉPRESSEUR', 'TERRASSE', 'TAKE-AWAY'];lefooding
+Sapid;54 Rue de Paradis, Paris, France;€€;['NÉOBISTROT', 'BIOCOOL', 'MÉDITERRANÉEN', 'VÉGI'];['ANTIDÉPRESSEUR', 'TAKE-AWAY', 'MANGER SEUL', 'RÉSA EXPRESS', 'RÉSERVATION VIA ZENCHEF'];lefooding
+Early june;19 Rue Jean Poulmarch, 75010 Paris, France;€€;['Feeling'];['BAR À VINS / CAVE À MANGER', 'POP-UP / RÉSIDENCE'];lefooding
+Le petit cambodge;20 Rue Alibert, 75010 Paris, France;€€;['CAMBODGIEN', 'ASIATIQUE'];['OUVERT LE DIMANCHE', 'OUVERT LE LUNDI', 'TERRASSE', 'TAKE-AWAY', 'FAIM DE NUIT', 'ACCESSIBILITÉ'];lefooding
+Eels;27 Rue d'Hauteville, 75010 Paris, France;€€€€;['Meilleur sophistroquet Guide 2018'];"['""CUISINE DAUTEUR""', 'NÉOBISTROT']";lefooding
+Les résistants - la table;7 rue de la Fidélité, 75010, Paris;€€-€€€;['Cuisine moderne'];['Cuisine moderne'];michelin
+Habile.;16 rue de Lancry, 75010, Paris;€€-€€€;['Cuisine moderne'];['Cuisine moderne'];michelin
+To;34 rue Beaurepaire, 75010, Paris;€€€-€€€€;['Cuisine moderne'];['Cuisine moderne'];michelin
+Pouliche;11 rue d'Enghien, 75010, Paris;€€-€€€;['Cuisine moderne'];['Cuisine moderne'];michelin
+Mamagoto;5 rue des Petits-Hôtels, 75010, Paris;€€-€€€;['Cuisine moderne'];['Cuisine moderne'];michelin
+52 faubourg st-denis;52 rue du Faubourg-Saint-Denis, 75010, Paris;€€-€€€;['Cuisine moderne'];['Cuisine moderne'];michelin
+Les résistants;16 rue du Château-d'Eau, 75010, Paris;€€-€€€;['Cuisine moderne'];['Cuisine moderne'];michelin
+Bonhomme;58 rue du Faubourg-Poissonnière, 75010, Paris;€€-€€€;['Cuisine moderne'];['Cuisine moderne'];michelin
+Bloom garden;Bloom House, 23 rue du Château-Landon, 75010, Paris;€€€-€€€€;['Cuisine moderne', 'Cuisine créative'];['Cuisine moderne', 'Cuisine créative'];michelin
+Nonos par paul pairet;Le Crillon, 10 place de la Concorde, 75008, Paris;€€€-€€€€;['Cuisine moderne'];['Cuisine moderne'];michelin
+Le paris-brest by christian le squer;Gare de Rennes, 35000, Rennes;€€-€€€;['Cuisine moderne'];['Cuisine moderne'];michelin
+Le faham by kelly rangama;108 rue Cardinet, 75017, Paris;€€€-€€€€;['Cuisine moderne'];['Cuisine moderne'];michelin
+Abri soba;10 rue Saulnier, 75009, Paris;€€-€€€;['Cuisine japonaise'];['Cuisine japonaise'];michelin
+L'écrin;Hôtel de Crillon, 10 place de la Concorde, 75008, Paris;€€€€€;['Cuisine créative'];['Cuisine créative'];michelin
+Loulou;107 rue Rivoli, 75001, Paris;€€€-€€€€;['Cuisine italienne'];['Cuisine italienne'];michelin
+Auberge pyrénées cévennes;106 rue de la Folie-Méricourt, 75011, Paris;€€-€€€;['Cuisine traditionnelle'];['Cuisine traditionnelle'];michelin
+La régalade saint-honoré;106 rue Saint-Honoré, 75001, Paris;€€-€€€;['Cuisine traditionnelle'];['Cuisine traditionnelle'];michelin
+Le bistrot flaubert;10 rue Gustave Flaubert, 75017, Paris;€€€-€€€€;['Cuisine moderne'];['Cuisine moderne'];michelin
+Le bon saint-pourçain;10 bis rue Servandoni, 75006, Paris;€€€-€€€€;['Cuisine moderne'];['Cuisine moderne'];michelin
+Lao lane xang 2;102 avenue d'Ivry, 75013, Paris;€-€€;['Cuisine sud-est asiatique'];['Cuisine sud-est asiatique'];michelin
+Shang palace;Shangri-La, 10 avenue d'Iéna, 75116, Paris;€€€€€;['Cuisine chinoise'];['Cuisine chinoise'];michelin
+Kei collection paris;49F, Toranomon Hills Station Tower, 2-6-2 Toranomon, Minato-ku, 105-5549, Tokyo;€€€-€€€€;['Cuisine française', 'Cuisine actuelle'];['Cuisine française', 'Cuisine actuelle'];michelin
+Paris 1930 de hideki takayama;2F, The Landis, 41, Section 2, Minquan East Road, Zhongshan District, 10470, Taipei;€€€€€;['Cuisine française contemporaine'];['Cuisine française contemporaine'];michelin
+Bistrot de paris;Rua Augusta 2542, 01412-100, São Paulo;€€-€€€;['Cuisine française'];['Cuisine française'];michelin
+Le salzgries paris;Marc-Aurel-Straße 6, 1010, Vienne;€€-€€€;['Cuisine française classique'];['Cuisine française classique'];michelin
