@@ -1,0 +1,33 @@
+;name;street;city;region;postcode;cuisine_type;tags;country;take_away;delivery;price;chef;michelin_award
+0;Les Résistants - La Table;7 rue de la Fidélité;Paris;Île-de-France;75010;['Cuisine moderne'];['Cuisine moderne'];France;0;0;Se faire plaisir;;selected
+1;Habile.;16 rue de Lancry;Paris;Île-de-France;75010;['Cuisine moderne'];['Cuisine moderne'];France;0;0;Se faire plaisir;;selected
+2;TO;34 rue Beaurepaire;Paris;Île-de-France;75010;['Cuisine moderne'];['Cuisine moderne'];France;0;0;Pour une belle occasion;;selected
+3;Pouliche;11 rue d'Enghien;Paris;Île-de-France;75010;['Cuisine moderne'];['Cuisine moderne'];France;0;0;Se faire plaisir;;selected
+4;Brigade du Tigre;38 rue du Faubourg-Poissonnière;Paris;Île-de-France;75010;['Cuisine asiatique'];['Cuisine asiatique'];France;0;0;Se faire plaisir;;BIB_GOURMAND
+5;Mamagoto;5 rue des Petits-Hôtels;Paris;Île-de-France;75010;['Cuisine moderne'];['Cuisine moderne'];France;0;0;Se faire plaisir;;selected
+6;52 Faubourg St-Denis;52 rue du Faubourg-Saint-Denis;Paris;Île-de-France;75010;['Cuisine moderne'];['Cuisine moderne'];France;0;0;Se faire plaisir;;BIB_GOURMAND
+7;Les Résistants;16 rue du Château-d'Eau;Paris;Île-de-France;75010;['Cuisine moderne'];['Cuisine moderne'];France;0;0;Se faire plaisir;;selected
+8;Dante;14 rue de Paradis;Paris;Île-de-France;75010;['Cuisine moderne'];['Cuisine moderne'];France;0;0;Se faire plaisir;;selected
+9;Chez Michel;10 rue de Belzunce;Paris;Île-de-France;75010;['Cuisine traditionnelle'];['Cuisine traditionnelle'];France;0;0;Se faire plaisir;;selected
+10;Eels;27 rue d'Hauteville;Paris;Île-de-France;75010;['Cuisine moderne'];['Cuisine moderne'];France;1;0;Pour une belle occasion;;selected
+11;Chocho;54 rue de Paradis;Paris;Île-de-France;75010;['Cuisine créative'];['Cuisine créative'];France;1;0;Se faire plaisir;;selected
+12;Bonhomme;58 rue du Faubourg-Poissonnière;Paris;Île-de-France;75010;['Cuisine moderne'];['Cuisine moderne'];France;0;0;Se faire plaisir;;selected
+13;Bloom Garden;Bloom House, 23 rue du Château-Landon;Paris;Île-de-France;75010;['Cuisine moderne', 'Cuisine créative'];['Cuisine moderne', 'Cuisine créative'];France;0;0;Pour une belle occasion;;selected
+14;Mâche;61 rue de Chabrol;Paris;Île-de-France;75010;['Cuisine créative'];['Cuisine créative'];France;0;0;Pour une belle occasion;;selected
+15;jjii;92 rue du Faubourg-Poissonnière;Paris;Île-de-France;75010;['Cuisine créative', 'Cuisine moderne'];['Cuisine créative', 'Cuisine moderne'];France;1;0;Pour une belle occasion;;selected
+16;Nonos par Paul Pairet;Le Crillon, 10 place de la Concorde;Paris;Île-de-France;75008;['Cuisine moderne'];['Cuisine moderne'];France;0;0;Pour une belle occasion;;selected
+17;Le Paris-Brest by Christian Le Squer;Gare de Rennes;Rennes;Bretagne;35000;['Cuisine moderne'];['Cuisine moderne'];France;0;0;Se faire plaisir;;selected
+18;Le Faham by Kelly Rangama;108 rue Cardinet;Paris;Île-de-France;75017;['Cuisine moderne'];['Cuisine moderne'];France;1;0;Pour une belle occasion;;ONE_STAR
+19;Abri Soba;10 rue Saulnier;Paris;Île-de-France;75009;['Cuisine japonaise'];['Cuisine japonaise'];France;0;0;Se faire plaisir;;BIB_GOURMAND
+20;L'Écrin;Hôtel de Crillon, 10 place de la Concorde;Paris;Île-de-France;75008;['Cuisine créative'];['Cuisine créative'];France;0;0;Faire une folie;;ONE_STAR
+21;Loulou;107 rue Rivoli;Paris;Île-de-France;75001;['Cuisine italienne'];['Cuisine italienne'];France;0;0;Pour une belle occasion;;selected
+22;Auberge Pyrénées Cévennes;106 rue de la Folie-Méricourt;Paris;Île-de-France;75011;['Cuisine traditionnelle'];['Cuisine traditionnelle'];France;0;0;Se faire plaisir;;BIB_GOURMAND
+23;La Régalade Saint-Honoré;106 rue Saint-Honoré;Paris;Île-de-France;75001;['Cuisine traditionnelle'];['Cuisine traditionnelle'];France;1;0;Se faire plaisir;;selected
+24;Le Bistrot Flaubert;10 rue Gustave Flaubert;Paris;Île-de-France;75017;['Cuisine moderne'];['Cuisine moderne'];France;0;0;Pour une belle occasion;;selected
+25;Le Bon Saint-Pourçain;10 bis rue Servandoni;Paris;Île-de-France;75006;['Cuisine moderne'];['Cuisine moderne'];France;0;0;Pour une belle occasion;;selected
+26;Lao Lane Xang 2;102 avenue d'Ivry;Paris;Île-de-France;75013;['Cuisine sud-est asiatique'];['Cuisine sud-est asiatique'];France;0;0;Sans se priver;;selected
+27;Shang Palace;Shangri-La, 10 avenue d'Iéna;Paris;Île-de-France;75116;['Cuisine chinoise'];['Cuisine chinoise'];France;1;0;Faire une folie;;ONE_STAR
+28;KEI Collection PARIS;49F, Toranomon Hills Station Tower, 2-6-2 Toranomon, Minato-ku;Tokyo;Tokyo;105-5549;['Cuisine française', 'Cuisine actuelle'];['Cuisine française', 'Cuisine actuelle'];Japon;0;0;Pour une belle occasion;;selected
+29;Paris 1930 de Hideki Takayama;2F, The Landis, 41, Section 2, Minquan East Road, Zhongshan District;Taipei;Taipei;10470;['Cuisine française contemporaine'];['Cuisine française contemporaine'];Taïwan;0;0;Faire une folie;;ONE_STAR
+30;Bistrot de Paris;Rua Augusta 2542;São Paulo;São Paulo;01412-100;['Cuisine française'];['Cuisine française'];Brésil;0;0;Se faire plaisir;;BIB_GOURMAND
+31;Le Salzgries Paris;Marc-Aurel-Straße 6;Vienne;Vienne;1010;['Cuisine française classique'];['Cuisine française classique'];Autriche;0;0;Se faire plaisir;;selected
